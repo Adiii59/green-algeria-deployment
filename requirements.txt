@@ -1,7 +1,7 @@
 streamlit
 pandas
 matplotlib
-numpy
+numpy==1.20.0
 scikit-learn==1.0.2
 tensorflow 
 Pillow
