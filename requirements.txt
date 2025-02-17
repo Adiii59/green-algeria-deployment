@@ -7,3 +7,4 @@ tensorflow
 Pillow
 openpyxl
 opencv-python
+protobuf==3.20.*
